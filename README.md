@@ -1,6 +1,6 @@
 # 📊 Researcher Profile Dashboard (Streamlit App)
 
-A **Streamlit-based interactive dashboard** for managing researcher profiles, uploading publication datasets, filtering academic records, and visualizing publication trends using Python.
+A **Streamlit-based interactive dashboard** for managing researcher profiles, uploading publication datasets, filtering academic records, and visualizing publication trends using Python. This project was made during the Data Science and Machine Learning Bootcamp by CHPC & NITheCS.
 
 ---
 
