@@ -45,5 +45,5 @@ if uploaded_file:
 
 # Add a contact section
 st.header("Contact Information")
-email = "lehlohonolosaohatse03@gmail.com"
+email = "https://message-ls.streamlit.app/"
 st.write(f"You can reach {name} at {email}.")
